@@ -5,3 +5,4 @@ __pycache__
 test.txt
 iris.csv
 anscombe.csv
+telco.csv
